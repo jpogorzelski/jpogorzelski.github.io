@@ -1,8 +1,12 @@
 ---
 permalink: /about/
 title: "About"
+date: 2022-12-06T10:05:00+00:00
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Jakub Pogorzelski. I'm Software Developer with 8 years of experience in fullstack Java / Typescript development. I'm interested in DDD, clean code, event driven architecture, refactoring legacy systems. I use Linux on daily basis.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My specialties are:
+* Java (Spring)
+* Typescript (Angular, React, Next.JS, Nest)
+* PostgreSQL
